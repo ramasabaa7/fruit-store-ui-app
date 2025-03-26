@@ -1,0 +1,97 @@
+[
+    {
+      "name": "Avocado",
+      "price": "70",
+      "image": "assets/images/avocado.png",
+      "color": "#EDB6C9",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    {
+      "name": "Cherry",
+      "price": "100",
+      "image": "assets/images/cherry.png",
+      "color": "#B6E6DA",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    {
+      "name": "Red mulberry",
+      "price": "100",
+      "image": "assets/images/red_mulberry.png",
+      "color": "#C1DE79",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    {
+      "name": "Fig",
+      "price": "30",
+      "image": "assets/images/fig.png",
+      "color": "#CDBFDA",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    {
+      "name": "Lemon",
+      "price": "25",
+      "image": "assets/images/lemon.png",
+      "color": "#FAF68C",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    {
+      "name": "Roseberry",
+      "price": "100",
+      "image": "assets/images/roseberry.png",
+      "color": "#FFC5CB",
+      "quantity": "1",
+      "type": "Berries"
+    },
+    {
+      "name": "Pomegranate",
+      "price": "45",
+      "image": "assets/images/pomergrante.png",
+      "color": "#DF9985",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    {
+      "name": "Apple",
+      "price": "54",
+      "image": "assets/images/apple.png",
+      "color": "#FED980",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    {
+      "name": "Mango",
+      "price": "10",
+      "image": "assets/images/mango.png",
+      "color": "#B4D5DF",
+      "quantity": "1",
+      "type": "Fruit"
+    },
+    
+    
+    {
+      "name": "Blueberry",
+      "price": "100",
+      "image": "assets/images/blueberry.png",
+      "color": "#B7E0BA",
+      "quantity": "1",
+      "type": "Berries"
+    },
+    
+    {
+      "name": "Kiwi",
+      "price": "63",
+      "image": "assets/images/kiwi2.png",
+      "color": "#FFE89D",
+      "quantity": "1",
+      "type": "Fruit"
+    }
+ 
+    
+   
+  ]
+  
